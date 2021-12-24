@@ -54,4 +54,4 @@ run:
 	./foaas-limiting serve
 
 .PHONY: all
-all: test build
+all: build test
